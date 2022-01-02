@@ -31,7 +31,7 @@ ALLOWED_HOSTS = ['fierce-beyond-86925.herokuapp.com', '127.0.0.1']
 # Application definition
 
 INSTALLED_APPS = [
-    'mysite.apps.MysiteConfig',
+    'polls.apps.PollsConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
